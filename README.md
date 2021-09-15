@@ -39,6 +39,14 @@ Si bien ya he realizado algunos proyectos freelance, actualmente me encuentro de
   + Desarrollado con Wordpress y Elementor Pro.
   + Personalizado para cargar, modificar y eliminar propiedades desde cPanel.
 
+---
+### :books:	Proyectos pequeños y ejercicios
+* **Convertidor de Número base 10 a Número Romano**  🌎 [Github repo](https://github.com/royarrascaeta/convert-to-roman "Convertidor a romano")
+  + Ejercicio realizado para obtener la certificación de 'Algoritmos de Javascript y Estructura de Datos' en FreeCodeCamp
+* **Generador de hashtag** 🌎 [Github repo](https://github.com/royarrascaeta/tags-generator "Generador de hashtag")
+  + Ejercicio de manejo de DOM, con funcionalidades añadidas.
+
+
 <!--
 **royarrascaeta/royarrascaeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
