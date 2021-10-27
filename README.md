@@ -11,6 +11,7 @@ Si bien ya he realizado algunos proyectos freelance, actualmente me encuentro de
 - HTML5 🟣🟣🟣🟣⚫
 - CSS3 🟣🟣🟣🟣⚫
 - JavaScript 🟣🟣🟣🟣⚫
+- React 🟣⚫⚫⚫⚫
 - jQuery 🟣🟣⚫⚫⚫
 - Sass 🟣🟣⚫⚫⚫
 - Bootstrap 🟣🟣⚫⚫⚫
@@ -23,13 +24,17 @@ Si bien ya he realizado algunos proyectos freelance, actualmente me encuentro de
 ---
 
 ### 🌱 Actualmente trabajando en:
-* **Ecommerce front end**: 🌎 [Github repo](https://github.com/royarrascaeta/ecommerce-front "Repositorio de Github")
-  + Front-end de tienda virtual con carrito de compras.
-  + Lenguajes y herramientas utilizadas: HTML5, CSS3, JavaScript, Sass, jQuery.
+* **Ecommerce con React**: 🌎 [Github repo](https://github.com/royarrascaeta/ShopArrascaeta "Repositorio de Github")
+  + Front-end de tienda virtual con React
+  + Lenguajes y herramientas utilizadas: HTML5, CSS3, React.js, Sass.
 
 ---
 
 ### :briefcase: Últimos proyectos
+* **Ecommerce front end**: 🌎 [Github repo](https://github.com/royarrascaeta/ecommerce-front "Repositorio de Github")
+  + Front-end de tienda virtual con carrito de compras.
+  + Lenguajes y herramientas utilizadas: HTML5, CSS3, JavaScript, Sass, jQuery.
+
 * **Rockville Producciones Website**: 🌎[Visitar](https://www.rockvilleproducciones.com.ar "Rockville Producciones")  
   + Desarrollo de sitio web con múltiples secciones para Productora Audiovisual 'Rockville'.
   + Lenguajes utilizados: HTML5, CSS3, JavaScript, PHP y MySQL.
