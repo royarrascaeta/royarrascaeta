@@ -11,9 +11,9 @@ Si bien ya he realizado algunos proyectos freelance, actualmente me encuentro de
 - HTML5 🟣🟣🟣🟣⚫
 - CSS3 🟣🟣🟣🟣⚫
 - JavaScript 🟣🟣🟣🟣⚫
-- React 🟣⚫⚫⚫⚫
+- React 🟣🟣⚫⚫⚫
 - jQuery 🟣🟣⚫⚫⚫
-- Sass 🟣🟣⚫⚫⚫
+- Sass 🟣🟣🟣⚫⚫
 - Bootstrap 🟣🟣⚫⚫⚫
 - Wordpress 🟣🟣🟣⚫⚫
 - Figma 🟣🟣🟣⚫⚫
@@ -24,13 +24,15 @@ Si bien ya he realizado algunos proyectos freelance, actualmente me encuentro de
 ---
 
 ### 🌱 Actualmente trabajando en:
-* **Ecommerce con React**: 🌎 [Github repo](https://github.com/royarrascaeta/ShopArrascaeta "Repositorio de Github")
-  + Front-end de tienda virtual con React
-  + Lenguajes y herramientas utilizadas: HTML5, CSS3, React.js, Sass.
+
 
 ---
 
 ### :briefcase: Últimos proyectos
+* **Ecommerce con React**: 🌎 [Github repo](https://github.com/royarrascaeta/ShopArrascaeta "Repositorio de Github")
+  + Front-end de tienda virtual con React
+  + Lenguajes y herramientas utilizadas: HTML5, CSS3, React.js, Sass.
+
 * **Ecommerce front end**: 🌎 [Github repo](https://github.com/royarrascaeta/ecommerce-front "Repositorio de Github")
   + Front-end de tienda virtual con carrito de compras.
   + Lenguajes y herramientas utilizadas: HTML5, CSS3, JavaScript, Sass, jQuery.
