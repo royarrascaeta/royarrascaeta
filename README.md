@@ -8,18 +8,7 @@ Si bien ya he realizado algunos proyectos freelance, actualmente me encuentro de
 ---
 
 ### :1st_place_medal:	Lenguajes, frameworks, librerías y otras herramientas que manejo:
-- HTML5 🟣🟣🟣🟣⚫
-- CSS3 🟣🟣🟣🟣⚫
-- JavaScript 🟣🟣🟣🟣⚫
-- React 🟣🟣⚫⚫⚫
-- jQuery 🟣🟣⚫⚫⚫
-- Sass 🟣🟣🟣⚫⚫
-- Bootstrap 🟣🟣⚫⚫⚫
-- Wordpress 🟣🟣🟣⚫⚫
-- Figma 🟣🟣🟣⚫⚫
-- Git 🟣🟣⚫⚫⚫
-- MySQL 🟣⚫⚫⚫⚫
-- PHP 🟣⚫⚫⚫⚫
+HTML5, CSS3, JavaScript ES6+, React, jQuery, Sass, Bootstrap, Wordpress, Figma, Git.
 
 ---
 
